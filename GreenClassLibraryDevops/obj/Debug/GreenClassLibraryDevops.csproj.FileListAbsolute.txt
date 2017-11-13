@@ -1,0 +1,4 @@
+D:\InterviewQuestions\GreenClassLibraryDevops\GreenClassLibraryDevops\bin\Debug\GreenClassLibraryDevops.dll
+D:\InterviewQuestions\GreenClassLibraryDevops\GreenClassLibraryDevops\bin\Debug\GreenClassLibraryDevops.pdb
+D:\InterviewQuestions\GreenClassLibraryDevops\GreenClassLibraryDevops\obj\Debug\GreenClassLibraryDevops.dll
+D:\InterviewQuestions\GreenClassLibraryDevops\GreenClassLibraryDevops\obj\Debug\GreenClassLibraryDevops.pdb

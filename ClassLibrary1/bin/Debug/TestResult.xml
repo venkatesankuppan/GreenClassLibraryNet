@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\InterviewQuestions\GreenClassLibraryDevops\ClassLibrary1\bin\Debug\ClassLibrary1.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-11-10" time="23:57:37">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.8762" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="S-PC" user="s" user-domain="s-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\InterviewQuestions\GreenClassLibraryDevops\ClassLibrary1\bin\Debug\ClassLibrary1.dll" executed="True" result="Success" success="True" time="0.180" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="GreenClass" executed="True" result="Success" success="True" time="0.168" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.167" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TestClass" executed="True" result="Success" success="True" time="0.165" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="AddTest" executed="True" result="Success" success="True" time="0.114" asserts="0">
+                    <results>
+                      <test-case name="GreenClass.Test.TestClass.AddTest()" executed="True" result="Success" success="True" time="0.104" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="SubtractTest" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                    <results>
+                      <test-case name="GreenClass.Test.TestClass.SubtractTest()" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

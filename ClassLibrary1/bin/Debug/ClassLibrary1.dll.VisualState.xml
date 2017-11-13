@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1005]D:\InterviewQuestions\GreenClassLibraryDevops\ClassLibrary1\bin\Debug\ClassLibrary1.dll</TopNode>
+  <SelectedNode>[0-1005]D:\InterviewQuestions\GreenClassLibraryDevops\ClassLibrary1\bin\Debug\ClassLibrary1.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1005]D:\InterviewQuestions\GreenClassLibraryDevops\ClassLibrary1\bin\Debug\ClassLibrary1.dll" Expanded="true" />
+    <Node UniqueName="[0-1006]GreenClass" Expanded="true" />
+    <Node UniqueName="[0-1007]GreenClass.Test" Expanded="true" />
+    <Node UniqueName="[0-1000]GreenClass.Test.TestClass" Expanded="true" />
+    <Node UniqueName="[0-1001]GreenClass.Test.TestClass.AddTest" Expanded="true" />
+    <Node UniqueName="[0-1003]GreenClass.Test.TestClass.SubtractTest" Expanded="true" />
+  </Nodes>
+</VisualState>
